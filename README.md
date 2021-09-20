@@ -42,8 +42,9 @@ This file is a detailed tutorial. Its designed as a step by step guide for anyon
 
 # Acknowledgements: 
 
-1) MySQL setup tutorial ________
-2) MySQL IDE (MySQL Workbench) setup tutorial __________
-3) SQL query tutorial ____________
+1) MySQL and SQL: Video: http://www.newthinktank.com/2014/08/mysql-video-tutorial/ 
+2) MySQL and SQL: Video: https://youtu.be/p3qvj9hO_Bo 
+3) MySQL Workbench: Video: https://youtu.be/X_umYKqKaF0
+4) MySQL Workbench: Video: https://youtu.be/chezeWdTHbo 
 
-Users new to MySQL, MySQL workbench and SQL language are encouraged to refer to the above mentioned turotials and pipelines. Other acknowledgements have been added to the best of our knowledge as #comment in the code/pipeline itself. 
+Users new to MySQL, MySQL workbench and SQL language are encouraged to refer to the above mentioned tutorials and pipelines. Other acknowledgements have been added to the best of our knowledge as #comment in the code/pipeline itself. 
