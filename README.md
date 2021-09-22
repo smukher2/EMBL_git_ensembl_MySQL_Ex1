@@ -53,7 +53,7 @@ sudo mysql --user="root" --password < ./mysql_create_database_tables_values_and_
 sudo mysql -u root -p < ./mysql_create_database_tables_values_and_compute.sql > ./mysql_computed_results.txt
 
 
-**4.Tutorial
+**4.Tutorial (doing)
 * "4.1_Tutorial_Complete_Guide_Ubuntu_To_MySQL.pdf"
 This file is a detailed tutorial. Its designed as a step by step guide for anyone with a laptop and internet connection, and does not assume previous coding experience. 
 
