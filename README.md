@@ -36,16 +36,20 @@ This file below, specifically described the installation requirements for MySQL 
 #'mysql_create_database_tables_values_and_compute.sql' is the script. Type any of the 4 code sets under methods to run script and get results. Note if during installation no password was set then just type 'mysql' instead of 'sudo mysql -u root -p'. Also, instead of root put your own username if you like.
 
   * Method 1. 
+
 sudo mysql -u root -p
 source ./mysql_create_database_tables_values_and_compute.sql
 
   * Method 2. 
+
 sudo mysql -u root -p < ./mysql_create_database_tables_values_and_compute.sql
 
   * Method 3. 
+
 sudo mysql --user="root" --password < ./mysql_create_database_tables_values_and_compute.sql
 
   * Method 4: 
+
 sudo mysql -u root -p < ./mysql_create_database_tables_values_and_compute.sql > ./mysql_computed_results.txt
 
 
